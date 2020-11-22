@@ -1,0 +1,7 @@
+# ignore directories
+**/.gradle
+**/.idea
+**/build
+
+# Ignore file types
+*.class

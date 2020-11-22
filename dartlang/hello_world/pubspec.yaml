@@ -1,0 +1,4 @@
+name: hello_world
+description: Simplest of Dart applications.
+executables:
+  hello_world:
